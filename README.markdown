@@ -8,7 +8,8 @@ copied to the clipboard.
 Usage
 -----
 
-You should pass one of the following options as an argument:
+You invoke the plugin with the command "lipsum"
+Then you should pass one of the following options as an argument:
 
 	* lp: long paragraph
 	* mp: medium paragraph
