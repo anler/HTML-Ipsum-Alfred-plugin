@@ -9,6 +9,7 @@ Usage
 -----
 
 You should pass one of the following options as an argument:
+
 	* lp: long paragraph
 	* mp: medium paragraph
 	* p: paragraph
